@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Personal Finance Manager
 
 A Flask web application for recording income and expenses, viewing a financial dashboard, and predicting monthly expenses using a Random Forest machine-learning model.
@@ -98,3 +99,7 @@ gunicorn app:app
 ```
 
 For production deployment, set a secure `SECRET_KEY` environment variable.
+=======
+# Expense-Tracker-AI-main
+AI-powered expense tracking application that helps users manage expenses, monitor spending patterns, set budgets, and gain intelligent insights for better financial management.
+>>>>>>> 8bcc4ab6ced0a2dc21eb72f78f96c51c59529769
